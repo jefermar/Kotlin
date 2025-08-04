@@ -1,10 +1,14 @@
+package Variables_Operadores_td
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     val name = "Kotlin"
     //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
     // to see how IntelliJ IDEA suggests fixing it.
-    println("Hello primera prueba de: " + name + "!")
+    println("Hello first test of: " + name + "!")
+
+//tipos de datos:
 
     var numeroFavorito: Int = -231
     //var numeroFavorito: Long = 474747474
